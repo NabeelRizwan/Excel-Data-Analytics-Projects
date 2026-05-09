@@ -57,11 +57,9 @@ Interactive Excel dashboard analyzing salary trends, job roles, and data-related
 
 ### Preview
 
-Add image here:
 
-```md
-![Dashboard](Project_1_Salary_Dashboard/images/dashboard.png)
-```
+![Dashboard](Images/1_Salary_Dashboard_Final_Dashboard.gif)
+
 
 ---
 
@@ -79,11 +77,8 @@ Excel analysis project focused on salary trends, job categories, and business in
 
 ### Preview
 
-Add image here:
-
-```md
 ![Analysis](Project_2_Salary_Analysis/images/analysis.png)
-```
+
 
 ---
 
