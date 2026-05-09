@@ -1,10 +1,8 @@
-# 📊 Salary Dashboard Project
+# 📊 Excel Salary Dashboard
 
 ## Introduction
 
-This Excel dashboard project analyzes salary trends in the data analytics industry using interactive visualizations and reporting techniques.
-
-The dashboard was built to transform raw salary data into meaningful business insights through dynamic charts, KPI tracking, and user-driven filtering.
+This project showcases an interactive Excel dashboard built to analyze salary trends within the data analytics industry. The dashboard transforms raw salary data into meaningful insights using visual reporting and interactive filtering techniques.
 
 ---
 
@@ -14,108 +12,77 @@ The dashboard was built to transform raw salary data into meaningful business in
 
 ---
 
-# 🧠 Excel Skills Used
+## Excel Skills Used
 
-The following Excel skills were applied throughout this project:
+The following Excel skills were utilized for analysis:
 
-### 📌 Data Analysis & Reporting
-
-- Data Cleaning
-- Salary Trend Analysis
-- KPI Reporting
-- Business Insights Generation
-- Interactive Reporting
-
-### 📌 Excel Features
-
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Conditional Formatting
-- Dashboard Design
-- Data Validation
-- Custom Formatting
-
-### 📌 Formulas & Functions
-
-- IF Functions
-- XLOOKUP / VLOOKUP
-- INDEX-MATCH
-- TEXT Functions
-- Aggregation Functions
+| Skill | Description |
+|---|---|
+| **Pivot Tables** | Used to summarize and analyze salary data across different job roles and locations. |
+| **Pivot Charts** | Built dynamic visualizations to present salary trends and comparisons. |
+| **Slicers** | Added interactive filters to allow dynamic dashboard exploration. |
+| **Conditional Formatting** | Highlighted key insights and salary metrics visually. |
+| **Dashboard Design** | Created a clean and interactive reporting interface for better usability. |
+| **Data Cleaning** | Organized and prepared raw salary datasets for accurate analysis. |
+| **Excel Formulas & Functions** | Applied formulas and calculations to generate KPI metrics and insights. |
 
 ---
 
-# 📈 Dashboard Features
+## Dashboard Build
 
-### ✔ Interactive Dashboard
+### 📌 Data Preparation
 
-Users can dynamically filter and explore salary insights using slicers and pivot controls.
+The dataset was cleaned and structured to support accurate reporting and analysis.
 
-### ✔ Salary Analysis
+### 📌 Pivot Tables & Visualizations
 
-The dashboard highlights:
+Pivot tables and charts were used to summarize salary trends and create dynamic reporting visuals.
 
-- Average salaries
-- Role-based salary comparisons
+### 📌 Interactive Dashboard
+
+An interactive dashboard was developed using slicers, KPI cards, and charts to improve usability and insight generation.
+
+---
+
+## Dashboard Preview
+
+### Main Dashboard
+
+![Dashboard](./Project_1_Salary_Dashboard/images/dashboard.png)
+
+### Charts & Insights
+
+![Charts](./Project_1_Salary_Dashboard/images/charts.png)
+
+---
+
+## Insights
+
+The dashboard provides insights into:
+
+- Salary comparisons across data-related roles
 - Country-wise salary trends
-- Job title insights
-- Data-related career trends
-
-### ✔ KPI Tracking
-
-Key metrics are displayed clearly for quick business analysis and reporting.
+- Interactive KPI tracking
+- Market trend analysis
+- Business-focused visual reporting
 
 ---
 
-# 🖼 Dashboard Preview
+## Conclusion
 
-## Main Dashboard
-
-![Dashboard](./images/dashboard.png)
+This project strengthened my Excel analytics and dashboarding skills by applying real-world reporting and visualization techniques to salary data.
 
 ---
 
-## Charts & Insights
+## Course Reference
 
-![Charts](./images/charts.png)
+Inspired by the Excel Data Analytics course by Luke Barousse.
 
----
-
-# 📂 Project Structure
-
-```txt
-Project_1_Salary_Dashboard/
-│
-├── Salary_Dashboard_Project.xlsx
-├── README.md
-│
-└── images/
-    ├── dashboard.png
-    └── charts.png
-```
+Course Repository:  
+[Excel Data Analytics Course Repository](https://github.com/lukebarousse/Excel_Data_Analytics_Course?utm_source=chatgpt.com)
 
 ---
 
-# 🚀 Project Learnings
-
-This project improved my ability to:
-
-- Build professional Excel dashboards
-- Analyze large datasets
-- Create interactive reports
-- Visualize business data effectively
-- Generate insights from raw data
-
----
-
-# 📚 Course Reference
-
-Project completed as part of the Excel Data Analytics course by  
-[Luke Barousse GitHub Repository](https://github.com/lukebarousse/Excel_Data_Analytics_Course?utm_source=chatgpt.com)
-
----
-
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 Mohammed Nabeel Rizwan
