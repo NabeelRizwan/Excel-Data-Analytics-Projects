@@ -1,6 +1,6 @@
 # SQL Data Exploration Project
 
-![2_Project_Analysis.png](/Images/2_Project_Analysis.gif)
+![2_Project_Analysis.png](/Images/2_Project_Analysis_Chart2.png)
 
 ## Introduction
 
@@ -74,49 +74,6 @@ ORDER BY avg_salary DESC;
 - 📊 **Data Representation:** Compared compensation trends across multiple data-related careers.
 - 💡 **Insights Gained:** Senior and engineering-focused positions generally offered higher salary ranges.
 
-### 📑 Common Table Expressions (CTEs)
-
-#### 🧮 Structured Query Analysis
-
-<img src="/Images/2_Project_Analysis_CTE.png" width="850" height="500" alt="CTE Analysis">
-
-```sql
-WITH salary_data AS (
-    SELECT
-        job_title_short,
-        AVG(salary_year_avg) AS avg_salary
-    FROM job_postings_fact
-    GROUP BY job_title_short
-)
-
-SELECT *
-FROM salary_data
-ORDER BY avg_salary DESC;
-```
-
-- 🔍 **Improved Readability:** Used CTEs to simplify complex analytical queries.
-- ⚡ **Better Organization:** Broke larger SQL workflows into manageable sections.
-- 📈 **Scalability:** Improved maintainability for future SQL analysis tasks.
-- 💡 **Insights Gained:** Helped structure advanced analytical logic more efficiently.
-
-### 📈 Window Functions
-
-#### 🏆 Salary Ranking Analysis
-
-<img src="/Images/2_Project_Analysis_Window_Function.png" width="850" height="500" alt="Window Function Analysis">
-
-```sql
-SELECT
-    job_title_short,
-    salary_year_avg,
-    RANK() OVER(ORDER BY salary_year_avg DESC) AS salary_rank
-FROM job_postings_fact;
-```
-
-- 🛠️ **SQL Features:** Utilized the `RANK()` window function for salary ranking.
-- 🎨 **Design Choice:** Maintained row-level information while ranking salaries dynamically.
-- 📊 **Data Representation:** Compared salaries across different job roles efficiently.
-- 💡 **Insights Gained:** Helped identify the highest-paying opportunities within the dataset.
 
 ## Key Insights
 
