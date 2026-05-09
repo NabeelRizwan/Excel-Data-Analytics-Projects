@@ -54,6 +54,45 @@ ORDER BY demand_count DESC;
 - 📉 **Data Organization:** Grouped and ranked skills based on total job postings.
 - 💡 **Insights Gained:** SQL, Python, and cloud-related technologies consistently ranked among the most requested skills.
 
+### 📊 Analysis
+
+#### 💡 Insights
+
+- 💻 SQL and Python remained among the most dominant technical skills across data-related job postings, highlighting their importance in analytics, automation, and data processing workflows.
+- ☁️ Cloud technologies such as AWS and Azure also appeared frequently, reflecting the growing demand for cloud computing and scalable data infrastructure skills in the industry.
+
+![2_Project_Analysis_Chart3.png](/Images/2_Project_Analysis_Chart3.png)
+
+#### 🤔 So What
+
+- Understanding which technical skills are most commonly required helps aspiring data professionals focus on learning tools that are highly valued in the job market.
+- These insights also help students and professionals prioritize skill development based on current industry trends and hiring demands.
+
+## 4️⃣ What’s the pay of the top 10 skills?
+
+### 📊 Skill: Advanced Charts (Pivot Chart)
+
+#### 📈 PivotChart
+
+- I created a combo PivotChart to visualize both median salary and skill likelihood (%) from my PivotTable.
+    - 🪙 **Primary Axis:** Median Salary displayed as a Clustered Column Chart
+    - 👍 **Secondary Axis:** Skill Likelihood displayed as a Line Chart with Markers
+- To improve the visualization, I customized the chart by adding chart titles, adjusting axis labels, removing unnecessary gridlines, and changing marker styles for better readability.
+
+### 📊 Analysis
+
+#### 💡 Insights
+
+- 💰 Higher median salaries were strongly associated with technical skills such as Python, Oracle, and SQL, showing their importance in higher-paying technology and analytics roles.
+- 📉 Skills such as PowerPoint and Word showed lower salary ranges and lower demand percentages, indicating that general office skills are less connected to specialized high-paying positions.
+
+![2_Project_Analysis_Chart4.png](/Images/2_Project_Analysis_Chart4.png)
+
+### 🤔 So What
+
+- Learning specialized technical skills can significantly improve earning potential in data and technology careers.
+- This analysis highlights the value of investing time in high-demand technologies that align with industry needs and higher-paying job opportunities.
+
 ### 💰 Salary Analysis
 
 #### 📉 Average Salary by Job Role
