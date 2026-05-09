@@ -1,68 +1,93 @@
 # 📊 Salary Dashboard Project
 
-Interactive Excel dashboard project focused on analyzing salary trends and job-related insights in the data analytics field.
+## Introduction
 
-This project demonstrates practical Excel skills used in real-world business reporting and analytics workflows.
+This Excel dashboard project analyzes salary trends in the data analytics industry using interactive visualizations and reporting techniques.
+
+The dashboard was built to transform raw salary data into meaningful business insights through dynamic charts, KPI tracking, and user-driven filtering.
 
 ---
 
-# 🛠 Tools & Features Used
+## Dashboard File
 
-- Microsoft Excel
+📁 `Salary_Dashboard_Project.xlsx`
+
+---
+
+# 🧠 Excel Skills Used
+
+The following Excel skills were applied throughout this project:
+
+### 📌 Data Analysis & Reporting
+
+- Data Cleaning
+- Salary Trend Analysis
+- KPI Reporting
+- Business Insights Generation
+- Interactive Reporting
+
+### 📌 Excel Features
+
 - Pivot Tables
 - Pivot Charts
 - Slicers
-- Dashboard Design
-- Data Cleaning
 - Conditional Formatting
-- KPI Metrics
-- Data Visualization
+- Dashboard Design
+- Data Validation
+- Custom Formatting
+
+### 📌 Formulas & Functions
+
+- IF Functions
+- XLOOKUP / VLOOKUP
+- INDEX-MATCH
+- TEXT Functions
+- Aggregation Functions
 
 ---
 
-# 📌 Project Overview
+# 📈 Dashboard Features
 
-The dashboard provides insights into:
+### ✔ Interactive Dashboard
 
-- Average salaries across roles
-- Job title comparisons
-- Salary distribution trends
-- Country-wise analysis
-- Interactive filtering using slicers
-- Key KPI metrics for quick analysis
+Users can dynamically filter and explore salary insights using slicers and pivot controls.
 
-The goal of this project was to transform raw salary data into an interactive and visually clear dashboard for easier decision-making.
+### ✔ Salary Analysis
+
+The dashboard highlights:
+
+- Average salaries
+- Role-based salary comparisons
+- Country-wise salary trends
+- Job title insights
+- Data-related career trends
+
+### ✔ KPI Tracking
+
+Key metrics are displayed clearly for quick business analysis and reporting.
 
 ---
 
-# 📷 Dashboard Preview
+# 🖼 Dashboard Preview
 
 ## Main Dashboard
 
-Add your main dashboard screenshot here:
-
-```md
-![Dashboard Preview](images/dashboard.png)
-```
+![Dashboard](./images/dashboard.png)
 
 ---
 
 ## Charts & Insights
 
-Add additional dashboard/charts screenshot here:
-
-```md
-![Charts](images/charts.png)
-```
+![Charts](./images/charts.png)
 
 ---
 
 # 📂 Project Structure
 
 ```txt
-Salary_Dashboard_Project/
+Project_1_Salary_Dashboard/
 │
-├── Excel_File.xlsx
+├── Salary_Dashboard_Project.xlsx
 ├── README.md
 │
 └── images/
@@ -72,42 +97,22 @@ Salary_Dashboard_Project/
 
 ---
 
-# 📈 Key Skills Demonstrated
+# 🚀 Project Learnings
 
-## Excel Analytics
-
-- Data organization
-- Salary trend analysis
-- Interactive reporting
-- KPI tracking
-- Business data visualization
-
-## Technical Excel Skills
-
-- Pivot Tables
-- Pivot Charts
-- Slicers & Filters
-- Dashboard Layout Design
-- Formula-based calculations
-
----
-
-# 🚀 Outcome
-
-This project strengthened my ability to:
+This project improved my ability to:
 
 - Build professional Excel dashboards
-- Present data visually
-- Generate business insights from datasets
-- Use Excel for analytical reporting
+- Analyze large datasets
+- Create interactive reports
+- Visualize business data effectively
+- Generate insights from raw data
 
 ---
 
 # 📚 Course Reference
 
-Project completed as part of the Excel Data Analytics learning course inspired by:
-
-[Luke Barousse Excel Data Analytics Course Repository](https://github.com/lukebarousse/Excel_Data_Analytics_Course?utm_source=chatgpt.com)
+Project completed as part of the Excel Data Analytics course by  
+[Luke Barousse GitHub Repository](https://github.com/lukebarousse/Excel_Data_Analytics_Course?utm_source=chatgpt.com)
 
 ---
 
