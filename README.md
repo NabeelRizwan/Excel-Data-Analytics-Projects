@@ -45,6 +45,8 @@ These projects demonstrate practical skills in:
 
 ## 1️⃣ Salary Dashboard Project
 
+![View Project](Project_1-Dashboard)
+
 Interactive Excel dashboard analyzing salary trends, job roles, and data-related insights.
 
 ### Features
@@ -64,6 +66,8 @@ Interactive Excel dashboard analyzing salary trends, job roles, and data-related
 ---
 
 ## 2️⃣ Salary Analysis Project
+
+![View Project](Project_2-Analysis)
 
 Excel analysis project focused on salary trends, job categories, and business insights using advanced Excel techniques.
 
