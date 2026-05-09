@@ -77,8 +77,7 @@ Excel analysis project focused on salary trends, job categories, and business in
 
 ### Preview
 
-![Analysis](Project_2_Salary_Analysis/images/analysis.png)
-
+![Analysis](Images/2_Project_Analysis_Chart1.png)
 
 ---
 
